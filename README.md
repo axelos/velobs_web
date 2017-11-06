@@ -58,7 +58,7 @@ C'est en production à Toulouse pour 2 pieds 2 roues sur : http://velobs.2p2r.or
     * définir les constantes  MAIL_* pour l'envoi des mails de VélObs
     * définir les constantes VELOBS_* en fonction des institutions avec lesquelles vous travaillez
  * modifier les droits en écriture pour les répertoires :
-    * resources/pictures
+    * resources/images
     * resources/icon/marker
     * resources/icon/marker/16x18
     * resources/csv
